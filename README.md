@@ -1,7 +1,7 @@
 # CZECH_BANK_ANALYSIS
-In this project I worked on end-to-end financial data analysis project using the Czechoslovakia Bank dataset. This project is a fully functional automated financial model, where clients can simply upload data in AWS , and the dashboard will update automatically in Power BI.
+In this project I worked on end-to-end financial data analysis project using the Czechoslovakia Bank dataset. This is an interactive power bi dashboard, where datasets are uploaded in AWS, Database is created in Snowflake and the data is loaded in Power BI from Snowflake to perform Data Analysis.
 
-This is fully functional automated Financial Model involved four major steps: 
+This Project involved four major steps: 
 
 **Excel > AWS > Snowflake > Power BI** 
 
@@ -22,7 +22,7 @@ File Format and Stage Creation
 Pipe-Line Creation
 
 **4th Step [in power BI] :**
-Build Connection and Extract Data
+Build Connection and Load Data from Snowflake
 Transform Data & Load Data
 Analysis of Data & Create Visualisation
 Dashboard Creation 
