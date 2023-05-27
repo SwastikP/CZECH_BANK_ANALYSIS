@@ -25,3 +25,6 @@ Analysis of Data & Create Visualisation
 Dashboard Creation 
 
 Power BI Dashboard link in novypro: https://www.novypro.com/project/czechbankingfinancialanalysis
+
+![Preview](https://github.com/SwastikP/CZECH_BANK_ANALYSIS/assets/58789099/9d0b6479-f4fa-4757-96c5-9a0e53c08051)
+
